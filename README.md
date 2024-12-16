@@ -2,6 +2,7 @@
 extract netbird log events
 
 [Netbird events api](https://docs.netbird.io/api/resources/events)
+
 [Service Users/tokens](https://app.netbird.io/team/service-users)
 
 - queries the netbird api for events (gets the last 10k)
